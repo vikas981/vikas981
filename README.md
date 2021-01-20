@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="vikash.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://new-tech-blogs.herokuapp.com/)
-[<img align="left" alt="Vikash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vikash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vikash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vikash-singh-962b19103/)
+[<img align="left" alt="Vikash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.linkedin.com/in/vikash-singh-962b19103/)
 
 <br />
 
