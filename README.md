@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 [![Spotify](https://novatorem.vikas981.vercel.app/api/spotify)](https://open.spotify.com/user/31rd3mcypkbrgunsd3bmi5jk4rue)
 
 
-[<img src="https://novatorem.vikas981.vercel.app/api/spotify-playing" alt="Vikash Spotify Playing" width="350" />](https://open.spotify.com/user/31rd3mcypkbrgunsd3bmi5jk4rue)
-
 ### Connect with me:
 
 [<img align="left" alt="vikash.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://new-tech-blogs.herokuapp.com/)
