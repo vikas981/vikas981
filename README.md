@@ -3,14 +3,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Anr Software Pvt. Ltd
+- 🔭 I’m currently working on ... CredAble
 - 🌱 I’m currently learning ... Go
-- 👯 I’m looking to collaborate on ... Go
+- 👯 I’m looking to collaborate on ... Go | Rust
 - 🤔 I’m looking for help with ... Spring Boot
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... 9716484616
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I am half Finish
+- ⚡ Fun fact: ... 
 
 -->
 
