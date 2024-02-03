@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... CredAble
+- 🔭 I’m currently working on ... Refo
 - 🌱 I’m currently learning ... Go
 - 👯 I’m looking to collaborate on ... Go | Rust
 - 🤔 I’m looking for help with ... Spring Boot
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.vikas981.vercel.app/api/spotify)](https://open.spotify.com/user/31rd3mcypkbrgunsd3bmi5jk4rue)
+[![Spotify](https://novatorem.vikas981.vercel.app/api/spotify)](https://open.spotify.com/user/ypsseewcrc8958m69a2kswb9f)
 
 
 ### Connect with me:
