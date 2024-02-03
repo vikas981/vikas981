@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-pivq7v5cc-vikas981.vercel.app/api/spotify)](https://open.spotify.com/user/ypsseewcrc8958m69a2kswb9f)
+[<img src="https://novatorem-pivq7v5cc-vikas981.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/ypsseewcrc8958m69a2kswb9f)
 
 
 ### Connect with me:
